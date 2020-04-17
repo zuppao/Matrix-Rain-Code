@@ -1,5 +1,5 @@
 # Matrix Rain code
-_my own version of Matrix Rain ~~sushi-~~code_
+_my own version of Matrix Rain code_
 
 Made with ~~(guess?)~~ P5 js 😁
 
